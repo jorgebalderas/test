@@ -1,0 +1,58 @@
+Código ISO de los paises
+Continente
+Nombre del pais
+Fecha por día
+Número total de infectados por dia
+Número de nuevos casos por dia
+Número de nuevos casos suavizados a 7 dias
+Número total de fallecidos por dia
+Número de nuevos falecidos por día
+Número de nuevos fallecidos suavizados a 7 dias
+Total de infectados por millon de habitantes
+Total de nuevos casos por millon de habitantes
+Total de nuevos casos suavozados a 7d por millon
+Total de fallecidos por millon de habitantes
+Total de nuevos fallecidos por millon de hab.
+Total de nuevos fallecidos suavizados 7d millon
+Tasa efectiva de reproducción (R) del COVID-19 estimada en tiempo real 
+Número de pacientes en UCI por dia
+Número de pacientes en UCI por millón 
+Número de pacientes hospitalizados por dia
+Número de pacientes hospitalizados por millón
+Admisiones semanales en UCI por dia
+Admisiones semanales en UCI por millón
+Hospitalizaciones semanales 
+Hospitalizacionse semanales por millón
+Número total de testes COVID 
+Número de nuevos testes COVID
+Número total de testes COVID por 1000 hab
+Numero nuevos testes COVID por 1000 hab
+Numero de nuevos testes suavizado 7d
+Ratio positivo: La proporción de pruebas de COVID-19 que son positivas, expresada como un promedio móvil de 7 días (esto es lo contrario de las pruebas por caso)
+Testes por caso: Pruebas realizadas por cada nuevo caso confirmado de COVID-19, dado como un promedio móvil de 7 días (esto es lo contrario de Positive_rate)
+Unidades de test: Unidades utilizadas por la ubicación para informar sus datos de prueba
+Número total de vacunaciones: Número total de dosis de vacuna COVID-19 administradas
+Personas vacunadas: Número total de personas que recibieron al menos una dosis de vacuna
+Personas completamente vacunadas: Número total de personas que recibieron todas las dosis prescritas por el protocolo de vacunación
+Nuevas vacunaciones: Nuevas dosis de vacuna COVID-19 administradas
+Nuevas vacunaciones suavizadas a 7d
+Total de vacunaciones por 1000 hab
+Personas vacunadas por 1000 hab
+Personas completamente vacundas por 1000 hab
+Nuevas vacunaciones por 1000 hab suavizada 7d
+stringency_index: Índice de rigurosidad de respuesta del gobierno: medida compuesta basada en 9 indicadores de respuesta que incluyen cierres de escuelas, cierres de lugares de trabajo y prohibiciones de viaje, reescalado a un valor de 0 a 100 (100 = respuesta más estricta)
+Poblacion en 2020
+Densidad poblacional
+Edad media de la poblacion
+Proporción de la población de 65 años o más
+Proporción de la población de 70 años o más
+Producto interno bruto: Producto interno bruto a paridad del poder adquisitivo (dólares internacionales constantes de 2011), año más reciente disponible
+Proporción de la población que vive en pobreza extrema
+Tasa de mortalidad por enfermedad cardiovascular en 2017 (número anual de muertes por cada 100.000 personas)
+Prevalencia de diabetes (% de la población de 20 a 79 años) en 2017
+Proporción de mujeres que fuman, año más reciente disponible
+Proporción de hombres que fuman, año más reciente disponible
+Proporción de la población con instalaciones básicas para lavarse las manos en las instalaciones, año más reciente disponible
+Camas de hospital por cada 1.000 personas, año más reciente disponible desde 2010
+Esperanza de vida al nacer en 2019
+Indice de desarrollo humano: Índice compuesto que mide el logro promedio en tres dimensiones básicas del desarrollo humano: una vida larga y saludable, conocimientos y un nivel de vida decente. Valores para 2019
